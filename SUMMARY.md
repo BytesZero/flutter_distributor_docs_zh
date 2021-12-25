@@ -21,7 +21,3 @@
 ## 工具
 
 * [Parse App Package](tools/parse-app-package.md)
-
-## 高级
-
-* [自动升级](advanced/auto-update.md)
