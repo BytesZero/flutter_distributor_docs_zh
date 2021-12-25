@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Getting Started](README.md)
+* [开始](README.md)
 * [CLI](cli.md)
-* [Sponsor](sponsor.md)
+* [支持](sponsor.md)
 
-## Configuration
+## 配置
 
 * [Makers](configuration/makers/README.md)
   * [aab](configuration/makers/aab.md)
@@ -18,6 +18,10 @@
   * [fir](configuration/publishers/fir.md)
   * [pgyer](configuration/publishers/pgyer.md)
 
-## Advanced
+## 工具
 
-* [Auto Update](advanced/auto-update.md)
+* [Parse App Package](tools/parse-app-package.md)
+
+## 高级
+
+* [自动升级](advanced/auto-update.md)
