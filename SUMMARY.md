@@ -2,6 +2,7 @@
 
 * [Getting Started](README.md)
 * [CLI](cli.md)
+* [Sponsor](sponsor.md)
 
 ## Configuration
 
@@ -16,3 +17,7 @@
 * [Publishers](configuration/publishers/README.md)
   * [fir](configuration/publishers/fir.md)
   * [pgyer](configuration/publishers/pgyer.md)
+
+## Advanced
+
+* [Auto Update](advanced/auto-update.md)

@@ -2,9 +2,9 @@
 
 The fir target publishes your `.apk` or `.ipa` artifacts to the [fir.im](https://betaqr.com).
 
-## **Set up environment variables**
+## **设置环境变量**
 
-requires some environment variables set up to run correctly.&#x20;
+需要设置一些环境变量才能正确运行。&#x20;
 
 ```
 export FIR_API_TOKEN="your api token"
