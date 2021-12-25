@@ -1,13 +1,12 @@
 ---
-description: >-
-  Flutter Distributor 是一个完整的工具，用于打包和发布您的 Flutter 应用。
+description: Flutter Distributor 是一个完整的工具，用于打包和发布您的 Flutter 应用。
 ---
 
-# Getting Started
+# 开始
 
 ## Distribute Options
 
-```
+```yaml
 env:
   FIR_API_TOKEN: 'your api token'
   PGYER_API_TOKEN: 'your api token'
