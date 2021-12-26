@@ -100,4 +100,4 @@ flutter_distributor release --name dev
 
 ## 谢谢你
 
-� � �
+🎉 🎉 🎉
