@@ -92,7 +92,7 @@ releases:
         publish_to: pgyer
 ```
 
-### Release Your App
+### 发布你的应用
 
 ```
 flutter_distributor release --name dev
