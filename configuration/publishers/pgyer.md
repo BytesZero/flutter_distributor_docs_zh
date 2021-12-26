@@ -7,5 +7,5 @@ The pgyer target publishes your `.apk` or `.ipa` artifacts to the [pgyer.com](ht
 需要设置一些环境变量才能正确运行。
 
 ```
-export PGYER_API_TOKEN="your api token"
+export PGYER_API_KEY="your api key"
 ```

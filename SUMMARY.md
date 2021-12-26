@@ -1,6 +1,7 @@
 # Table of contents
 
 * [开始](README.md)
+* [分发选项](distribute-options.md)
 * [CLI](cli.md)
 * [支持](sponsor.md)
 
