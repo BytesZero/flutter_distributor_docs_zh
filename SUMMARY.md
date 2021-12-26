@@ -22,3 +22,9 @@
 ## 工具
 
 * [Parse App Package](tools/parse-app-package.md)
+
+## 相关链接
+
+* [GitHub](https://github.com/leanflutter/flutter\_distributor)
+* [Discord](https://discord.com/invite/zPa6EZ2jqb)
+* [QQ 群](https://jq.qq.com/?_wv=1027&k=e3kwRnnw)
