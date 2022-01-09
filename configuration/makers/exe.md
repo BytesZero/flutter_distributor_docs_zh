@@ -17,3 +17,7 @@ appPublisherUrl: https://github.com/leanflutter/flutter_distributor
 ```
 flutter_distributor package --platform windows --targets exe
 ```
+
+## 相关链接
+
+[https://jrsoftware.org/isinfo.php](https://jrsoftware.org/isinfo.php)

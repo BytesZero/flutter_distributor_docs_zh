@@ -1,7 +1,7 @@
 # dmg
 
 {% hint style="warning" %}
-You can only build the DMG target on macOS machines.
+你只能在 macOS 机器上构建 DMG 目标。
 {% endhint %}
 
 ## 用法
@@ -26,3 +26,7 @@ contents:
 ```
 flutter_distributor package --platform macos --targets dmg
 ```
+
+## 相关链接
+
+[https://github.com/LinusU/node-appdmg](https://github.com/LinusU/node-appdmg)
