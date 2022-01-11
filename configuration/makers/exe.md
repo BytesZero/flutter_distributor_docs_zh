@@ -2,7 +2,7 @@
 
 ## 用法
 
-将 `distribute_options.yaml` 添加到你的项目 `windows/packaging/dmg` 目录。
+将 `make_config.yaml` 添加到你的项目 `windows/packaging/exe` 目录。
 
 ```yaml
 // AppId 的值唯一标识此应用。
