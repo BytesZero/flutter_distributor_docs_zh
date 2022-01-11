@@ -1,5 +1,9 @@
 # exe
 
+## 必要条件
+
+* [`Inno Setup 6`](https://jrsoftware.org/isinfo.php)``
+
 ## 用法
 
 将 `make_config.yaml` 添加到你的项目 `windows/packaging/exe` 目录。
