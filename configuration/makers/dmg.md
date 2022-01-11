@@ -4,6 +4,16 @@
 你只能在 macOS 机器上构建 DMG 目标。
 {% endhint %}
 
+## 必要条件
+
+* `appdmg`
+
+运行以下命令
+
+```
+npm install -g appdmg
+```
+
 ## 用法
 
 将 `distribute_options.yaml` 添加到你的项目 `macos/packaging/dmg` 目录。
