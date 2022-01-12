@@ -15,7 +15,6 @@ releases:
           platform: android
           target: apk
           build_args:
-            flavor: dev
             target-platform: android-arm,android-arm64
             dart-define:
               APP_ENV: dev
@@ -26,8 +25,7 @@ releases:
           platform: ios
           target: ipa
           build_args:
-            flavor: dev
-            export-options-plist: ios/dev_ExportOptions.plist
+            export-options-plist: ios/ExportOptions.plist
             dart-define:
               APP_ENV: dev
         publish_to: pgyer

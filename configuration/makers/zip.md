@@ -1,10 +1,10 @@
 # zip
 
-## Requirements
+## 必要条件
 
 * `7z`
 
-Run the following command
+运行以下命令
 
 Linux
 
@@ -18,6 +18,10 @@ macOS
 brew install p7zip
 ```
 
-\
+## 用法
 
+运行：
 
+```
+flutter_distributor package --platform linux --targets zip
+```
