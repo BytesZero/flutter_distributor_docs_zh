@@ -9,3 +9,13 @@ The fir target publishes your `.apk` or `.ipa` artifacts to the [fir.im](https:/
 ```
 export FIR_API_TOKEN="your api token"
 ```
+
+## 用法
+
+运行：
+
+```
+flutter_distributor publish \
+  --path dist/1.0.0+1/hello_world-1.0.0+1-android.apk \
+  --targets fir
+```
