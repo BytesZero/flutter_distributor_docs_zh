@@ -25,7 +25,7 @@ flutter_distributor publish \
   --firebase-app '<app ID>' \
   --firebase-testers testers@gmail.com \
   --firebase-groups flutter_distributor \
-  --firebase-release-notes 'release v1.0.0'
+  --firebase-release-notes 'release v1.0.0'/
 ```
 
 ### 配置 `distribute_options.yaml`
