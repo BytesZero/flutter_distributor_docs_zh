@@ -11,7 +11,6 @@ The firebase target publishes your package artifacts to the [firebase](https://c
 需要设置一些环境变量才能正确运行。
 
 ```
-export FIREBASE_APP_ID="your app ID"
 export FIREBASE_TOKEN="your firebase login:ci Token"
 ```
 
@@ -23,9 +22,10 @@ export FIREBASE_TOKEN="your firebase login:ci Token"
 flutter_distributor publish \
   --path dist/1.0.0+1/hello_world-1.0.0+1-android.apk \
   --targets firebase \
+  --firebase-app '<app ID>' \
   --firebase-testers testers@gmail.com \
   --firebase-groups flutter_distributor \
-  --firebase-release-notes release v1.0.0/
+  --firebase-release-notes 'release v1.0.0'
 ```
 
 ### 配置 `distribute_options.yaml`
@@ -48,6 +48,7 @@ releases:
         publish:
           target: firebase
           args:
+            app: your app ID
             testers: testers@gmail.com
             groups: flutter_distributor
             release-notes: release v1.0.0
