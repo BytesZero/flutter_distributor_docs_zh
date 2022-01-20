@@ -5,7 +5,7 @@
 运行：
 
 ```
-flutter_distributor package --platform android --targets ipa --build-export-options-plist  ios/exportOptions.plist
+flutter_distributor package --platform ios --targets ipa --build-export-options-plist  ios/exportOptions.plist
 ```
 
 ## 相关链接
