@@ -1,6 +1,6 @@
 # github
 
-The github target publishes your package artifacts to the [github](https://github.com/leanflutter/flutter_distributor/releases) release.
+The github target publishes your package artifacts to the [github](https://github.com/leanflutter/flutter\_distributor/releases) release.
 
 ## 设置环境变量
 
@@ -21,8 +21,7 @@ flutter_distributor publish \
   --path dist/1.0.0+1/hello_world-1.0.0+1-android.apk \
   --targets github \
   --github-repo-owner 'leanflutter' \
-  --github-repo-name 'flutter_distributor' \
-  --github-release-title 'v1.0.0' /
+  --github-repo-name 'flutter_distributor'
 ```
 
 ### 配置 `distribute_options.yaml`
@@ -46,7 +45,6 @@ releases:
           args:
             repo-owner: Repository owner
             repo-name: Repository name
-            release-title: Release title
 ```
 
 运行:
@@ -57,5 +55,4 @@ flutter_distributor release --name dev
 
 ## 相关链接
 
-- [创建个人 Token](https://docs.github.com/cn/enterprise-server@3.2/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-
+* [创建个人 Token](https://docs.github.com/cn/enterprise-server@3.2/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
