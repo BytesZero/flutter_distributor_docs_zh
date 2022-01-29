@@ -16,7 +16,7 @@ npm install -g appdmg
 
 ## 用法
 
-将 `distribute_options.yaml` 添加到你的项目 `macos/packaging/dmg` 目录。
+将 `make_config.yaml` 添加到你的项目 `macos/packaging/dmg` 目录。
 
 ```yaml
 title: hello_world
