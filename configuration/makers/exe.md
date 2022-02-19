@@ -22,8 +22,6 @@ appPublisherUrl: https://github.com/leanflutter/flutter_distributor
 flutter_distributor package --platform windows --targets exe
 ```
 
-> PowerShell 暂未支持，请使用 Git Shell 并执行 `flutter_distributor.bat`。
-
-## 相关链接
+> ## 相关链接
 
 [https://jrsoftware.org/isinfo.php](https://jrsoftware.org/isinfo.php)
