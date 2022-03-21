@@ -16,11 +16,11 @@ export APPSTORE_PASSWORD="App 专用密码"
 
 - API 密钥
 
-App Store Connect api: https://developer.apple.com/documentation/appstoreconnectapi
+App Store Connect API: https://developer.apple.com/documentation/appstoreconnectapi
 
 ```
-export APPSTORE_APIKEY="api 秘钥"
-export APPSTORE_APIISSUER="api issuer"
+export APPSTORE_APIKEY="API key"
+export APPSTORE_APIISSUER="API issuer"
 ```
 
 ## 用法
@@ -39,7 +39,7 @@ flutter_distributor publish \
 env:
   APPSTORE_USERNAME: "xxx" 
   APPSTORE_PASSWORD: "xxx" 
-  # Or
+  # or
   # APPSTORE_APIKEY: "xxx"
   # APPSTORE_APIISSUER: "xxx"
 output: dist/
