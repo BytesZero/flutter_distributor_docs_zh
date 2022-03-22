@@ -8,7 +8,7 @@ The appstore target publishes your package artifacts to the [App Store Connect](
 
 - 用户名和密码
 
-App 专用密码获取：https://support.apple.com/HT204397
+App 专用密码获取：[https://support.apple.com/HT204397](https://support.apple.com/HT204397)
 ```
 export APPSTORE_USERNAME="登录用户名"
 export APPSTORE_PASSWORD="App 专用密码"
@@ -16,7 +16,7 @@ export APPSTORE_PASSWORD="App 专用密码"
 
 - API 密钥
 
-App Store Connect API: https://developer.apple.com/documentation/appstoreconnectapi
+App Store Connect API: [https://developer.apple.com/documentation/appstoreconnectapi](https://developer.apple.com/documentation/appstoreconnectapi)
 
 ```
 export APPSTORE_APIKEY="API key"
